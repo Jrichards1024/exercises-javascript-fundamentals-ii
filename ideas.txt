@@ -1,0 +1,10 @@
+
+    count = 
+
+if val > 60
+while val > 60
+amount = val/60
+new = math.down(amount)
+60 * (amount - new) = remainder
+empty_list.push(remainder)
+val = amount 
